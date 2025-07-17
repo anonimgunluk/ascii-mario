@@ -1,10 +1,13 @@
 {
   "name": "ascii-mario",
   "version": "1.0.0",
-  "description": "ASCII ile yapılmış Mario oyunu",
+  "description": "Terminalde ASCII ile oynanan basit Mario oyunu",
   "main": "src/main.js",
   "type": "module",
   "scripts": {
     "start": "node src/main.js"
+  },
+  "dependencies": {
+    "readline": "^1.3.0"
   }
 }
