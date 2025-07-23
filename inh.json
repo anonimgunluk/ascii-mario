@@ -1,5 +1,8 @@
 {
   "name": "ascii-mario",
-  "version": "1.0.0",
-  "entry": "src/main.js"
+  "version": "1.1.0",
+  "description": "Basit bir ascii oyun",
+  "repo": "https://github.com/anonimgunluk/ascii-mario",
+  "entry": "src/main.js",
+  "tags": ["example", "ascii", "mario"]
 }
